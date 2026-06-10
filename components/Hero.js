@@ -167,7 +167,7 @@ const Hero = () => {
               <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-blue-400 shadow-[0_0_60px_rgba(59,130,246,0.5)]">
 
                 <Image
-                  src="/images/profile.png"
+                  src="/Portfolio/images/profile.png"
                   alt="Profile"
                   fill
                   className="object-cover"
