@@ -8,7 +8,6 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 - **Fully Responsive** - Optimized for all devices (desktop, tablet, mobile)
 - **Smooth Animations** - Subtle fade-in effects and smooth transitions
 - **Sticky Navigation** - Easy navigation between sections
-- **Project Showcase** - Beautiful project cards with images and tech stacks
 - **Skills Display** - Categorized skill cards with color-coded gradients
 - **Learning Journey** - Timeline showing educational progression
 - **Contact Section** - Professional contact form and social links
@@ -18,10 +17,9 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 1. **Hero Section** - Introduction with name, title, and CTA buttons
 2. **About Section** - Background, interests, and education
 3. **Skills Section** - Technical skills organized by category
-4. **Projects Section** - Featured projects with descriptions and links
-5. **Learning Journey** - Educational timeline and growth path
-6. **Contact Section** - Get in touch form and social links
-7. **Footer** - Copyright and social media links
+4. **Education Journey** - Educational timeline and growth path
+5. **Contact Section** - Get in touch form and social links
+6. **Footer** - Copyright and social media links
 
 ## 🛠️ Tech Stack
 
@@ -54,8 +52,7 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 │   ├── Hero.js           # Hero section
 │   ├── About.js          # About section
 │   ├── Skills.js         # Skills section
-│   ├── Projects.js       # Projects section
-│   ├── LearningJourney.js # Learning timeline
+│   ├── Education.js      # Learning timeline
 │   ├── Contact.js        # Contact section
 │   └── Footer.js         # Footer component
 └── components/ui/        # shadcn/ui components
@@ -78,8 +75,7 @@ sudo supervisorctl restart nextjs
 1. **Name and Title**: Edit `/app/components/Hero.js`
 2. **About Content**: Edit `/app/components/About.js`
 3. **Skills**: Edit the `skillCategories` array in `/app/components/Skills.js`
-4. **Projects**: Edit the `projects` array in `/app/components/Projects.js`
-5. **Social Links**: Update URLs in Hero, Contact, and Footer components
+4. **Social Links**: Update URLs in Hero, Contact, and Footer components
 
 ### Add Real Resume Download
 
