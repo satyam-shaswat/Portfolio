@@ -2,8 +2,8 @@ import './globals.css'
 import { Providers } from './providers'
 
 export const metadata = {
-  title: 'Satyam Shaswat | Data Scientist & Software Engineer Portfolio',
-  description: 'Portfolio of Satyam Shaswat - Aspiring Software & Data Science Engineer specializing in MERN stack, Machine Learning, and Data Analysis',
+  title: 'Satyam Shaswat | Data Scientist & Software Engineer',
+  description: 'Portfolio of Satyam Shaswat - Aspiring Data Scientist & Software Engineer nvested in extracting actionable insights from data and developing end-to-end machine learning pipelines to solve real-world problems',
   keywords: 'Satyam Shaswat,  Data Science, MERN Stack, Machine Learning, Portfolio',
 }
 
