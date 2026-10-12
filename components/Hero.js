@@ -139,7 +139,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="mailto:satyamshaswat335@gmail.com"
+                href="mailto:satyamshaswat158@gmail.com"
                 className="p-3 rounded-full bg-slate-800/50 border border-slate-700 hover:border-blue-500 hover:bg-slate-800 transition-all group"
               >
                 <Mail
